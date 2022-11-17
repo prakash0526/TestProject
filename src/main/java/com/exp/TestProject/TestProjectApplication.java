@@ -35,7 +35,7 @@ public class TestProjectApplication {
 
 		System.out.println(productList);
 		System.out.println("Hello its a Test project for testing");
-		System.out.println("did know mistake for seeing jenkins failed")
+		System.out.println("Resolved mistake for seeing jenkins build success");
 	}
 
 }
