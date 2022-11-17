@@ -36,7 +36,7 @@ public class TestProjectApplication {
 		System.out.println(productList);
 		System.out.println("Hello its a Test project for testing");
 		System.out.println("Test edit from intellij");
-
+		System.out.println("Test edit from git");
 	}
 
 }
