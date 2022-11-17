@@ -34,7 +34,7 @@ public class TestProjectApplication {
 				.collect(Collectors.toList());
 
 		System.out.println(productList);
-		System.out.println("Hello its done");
+		System.out.println("Hello its a Test project for testing");
 
 	}
 
